@@ -27,7 +27,7 @@ url: "https://wickedimperial.com" # the base hostname & protocol for your site, 
 
 # Build settings
 #theme: minima
-remote_theme: huangyz0918/moving
+remote_theme: vsoch/docsy-jekyll
 plugins:
   - jekyll-feed
 
