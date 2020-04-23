@@ -4,7 +4,9 @@
 
 layout: home
 ---
+
 # <center>Wicked Imperial
+
 Wicked Imperial is the developer of Croquet DeadWatch a deadness board for iPhone, iPad and Apple Watch.
 
 The app is currently unavailable on the app store and hasn't been updated in a few years. Both of these will change shortly. This paragraph was written on 4/23/2020 just to keep me honest.
