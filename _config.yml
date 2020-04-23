@@ -26,8 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wickedimperial.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-#theme: minima
-remote_theme: vsoch/docsy-jekyll
+theme: minima
+#remote_theme: vsoch/docsy-jekyll
 plugins:
   - jekyll-feed
 
