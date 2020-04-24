@@ -21,11 +21,10 @@
 title: Wicked Imperial
 email: support@wickedimperial.com
 description: >- # this means to ignore newlines until "baseurl:"
-Developer of Croquet DeadWatch
-#  Copyright © 2020 Wicked Imperial, LLC. All rights reserved.
+Developer of Croquet Deadwatch
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wickedimperial.com" # the base hostname & protocol for your site, e.g. http://example.com
-
+# Copyright © 2020 Wicked Imperial, LLC. All rights reserved.
 # Build settings
 theme: minima
 #remote_theme: vsoch/docsy-jekyll
