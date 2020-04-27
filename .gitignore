@@ -14,6 +14,8 @@ package.json
 .ftpconfig
 .sftpconfig
 
+### VS Code ###
+.code-workspace
 
 ### Compiled Source ###
 *.com
